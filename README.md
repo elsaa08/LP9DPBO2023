@@ -24,6 +24,9 @@ Saya [Elsa Nabiilah] [2108805] mengerjakan LATIHAN 9 dalam mata kuliah Desain Pe
 ## Tampilan Detail Rumah
 <img width="398" alt="image" src="https://github.com/elsaa08/LP9DPBO2023C2/assets/101001227/d2c666d0-c5ab-4ac4-961e-6bf1992e506a">
 
+## Proof DB 
+![image](https://github.com/elsaa08/LP9DPBO2023C2/assets/101001227/450d41f5-b617-4e18-ac8d-6584e954c168)
+
 
 ## DEMO 
 ![2023-05-28 14-47-06](https://github.com/elsaa08/LP9DPBO2023C2/assets/101001227/435feb40-0b55-4554-952e-78a1ca9ca7ff)
